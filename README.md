@@ -2,6 +2,8 @@
 
 ## Launch the project 
 
+Once you've cloned or downloaded the folder, make sure the folder name is "SavoMobileApp" before continuing with the next steps.
+
 install expo </br>
 `npm install --global expo-cli`
 
